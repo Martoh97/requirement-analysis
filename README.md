@@ -28,3 +28,13 @@ Requirement Analysis plays a crucial role in the Software Development Lifecycle 
 
 3. **Improves Software Quality:**  
    Well-defined requirements set measurable standards for testing and validation, ensuring the final product meets both functional and non-functional expectations.
+
+   #### Key Activities in Requirement Analysis
+
+The Requirement Analysis process involves several key activities that ensure software requirements are well-understood and properly managed:
+
+- **Requirement Gathering:** Collecting information from stakeholders, users, and other sources to identify what the system should achieve.
+- **Requirement Elicitation:** Engaging stakeholders through interviews, surveys, workshops, and observation to uncover explicit and implicit needs.
+- **Requirement Documentation:** Recording requirements in a structured format (e.g., Software Requirement Specification - SRS) for clear communication.
+- **Requirement Analysis and Modeling:** Analyzing requirements for feasibility, consistency, and completeness, and representing them through models or diagrams.
+- **Requirement Validation:** Reviewing and confirming requirements with stakeholders to ensure accuracy, relevance, and alignment with project goals.
