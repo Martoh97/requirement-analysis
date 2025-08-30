@@ -89,3 +89,21 @@ The following diagram illustrates the interactions in the Hotel Booking Manageme
   - Cancel Booking
 
 ![Booking System Use Case Diagram](/home/marto/Downloads/alx-booking-uc.png)
+
+#### Acceptance Criteria
+
+### Importance
+
+Acceptance Criteria are predefined conditions that a software feature must meet to be accepted by the client or end-user. They help ensure clarity between stakeholders and developers, guide testing, and define the boundaries of a feature. Clear acceptance criteria reduce ambiguity and improve the quality of requirement analysis.
+
+### Example (Checkout Feature – Booking Management System)
+
+**Feature:** Checkout
+
+**Acceptance Criteria:**
+
+- User must be able to view a summary of their booking before payment.
+- Payment can be made using at least two methods (e.g., credit card, PayPal).
+- Confirmation email is sent automatically after successful payment.
+- System displays an error message for failed transactions.
+- Booking status changes to “Confirmed” only after successful payment.
