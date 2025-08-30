@@ -88,4 +88,4 @@ The following diagram illustrates the interactions in the Hotel Booking Manageme
   - Manage Hotels (add/update/remove details)
   - Cancel Booking
 
-![Booking System Use Case Diagram](/home/marto/Downloads/_alx-booking-uc.png)
+![Booking System Use Case Diagram](/home/marto/Downloads/alx-booking-uc.png)
