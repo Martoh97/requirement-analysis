@@ -60,3 +60,32 @@ Non-functional requirements define how the system performs, focusing on quality 
 - **Hotel Management Service:** Must support concurrent updates by multiple admins without data conflicts.
 - **Customer Service (Search + Booking):** Search results should be returned within 2 seconds for up to 10,000 hotel entries.
 - **View Booking Service:** Booking history should be accessible 24/7 with 99.9% system uptime.
+
+#### Use Case Diagrams
+
+Use Case Diagrams are a visual tool in Requirement Analysis used to represent the interactions between users (actors) and the system. They help stakeholders quickly understand system functionality, user roles, and how different services are expected to work together.
+
+### Benefits of Use Case Diagrams:
+
+- **Clarity:** Provides a simple and clear visualization of system behavior.
+- **Communication:** Bridges the gap between technical teams and non-technical stakeholders.
+- **Requirement Validation:** Ensures that all user interactions and system functions are captured.
+
+### Booking System Use Case Diagram
+
+The following diagram illustrates the interactions in the Hotel Booking Management System:
+
+- **Actors:**
+
+  - Customer
+  - Hotel Admin
+  - System
+
+- **Use Cases:**
+  - Search Hotels
+  - Book Hotel
+  - View Booking
+  - Manage Hotels (add/update/remove details)
+  - Cancel Booking
+
+![Booking System Use Case Diagram](_alx-booking-uc.png)
