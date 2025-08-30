@@ -38,3 +38,25 @@ The Requirement Analysis process involves several key activities that ensure sof
 - **Requirement Documentation:** Recording requirements in a structured format (e.g., Software Requirement Specification - SRS) for clear communication.
 - **Requirement Analysis and Modeling:** Analyzing requirements for feasibility, consistency, and completeness, and representing them through models or diagrams.
 - **Requirement Validation:** Reviewing and confirming requirements with stakeholders to ensure accuracy, relevance, and alignment with project goals.
+
+#### Types of Requirements
+
+### Functional Requirements
+
+Functional requirements describe what the system should do — the specific behaviors, tasks, or functions it must perform.
+
+**Examples (Hotel Booking Management Project):**
+
+- **Hotel Management Service:** Add, update, and remove hotel details.
+- **Customer Service (Search + Booking):** Allow customers to search hotels by location, price, and availability, then book rooms online.
+- **View Booking Service:** Display booking details, status, and history for a customer.
+
+### Non-functional Requirements
+
+Non-functional requirements define how the system performs, focusing on quality attributes such as performance, usability, reliability, and security.
+
+**Examples (Hotel Booking Management Project):**
+
+- **Hotel Management Service:** Must support concurrent updates by multiple admins without data conflicts.
+- **Customer Service (Search + Booking):** Search results should be returned within 2 seconds for up to 10,000 hotel entries.
+- **View Booking Service:** Booking history should be accessible 24/7 with 99.9% system uptime.
